@@ -1,0 +1,5 @@
+print('===========EX003===========')
+valor1 = input('Primeiro número = ')
+valor2 = input('Segundo número = ')
+soma = int(valor1) + int(valor2)
+print('A some é', soma)
